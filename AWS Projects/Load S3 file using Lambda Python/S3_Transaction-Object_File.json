@@ -1,0 +1,13 @@
+{
+	"transactions": 
+	[
+		{
+			"transactionType": "PURCHASE",
+			"amount": 10.00
+		},
+		{
+			"transactionType": "REFUND",
+			"amount": 20.00
+		}
+	]
+}
